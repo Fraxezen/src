@@ -5,6 +5,12 @@
 - moveit [install here](https://moveit.ros.org/install/)
 - track-ik kinematics solver [install here](https://ros-planning.github.io/moveit_tutorials/doc/trac_ik/trac_ik_tutorial.html)
 - [ros-noetic-robot-state-publisher](https://wiki.ros.org/robot_state_publisher)
+- [U2D2 Setup](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_workbench/)
+
+Install catkin the ROS build system:
+```bash
+sudo apt install ros-noetic-catkin python3-catkin-tools python3-osrf-pycommon
+```
 
 ## Using docker
 first install docker [here](https://docs.docker.com/engine/install/ubuntu/) if you don't have it already.
