@@ -1,0 +1,12 @@
+[submodule "SAS_KRSTI"]
+	path = SAS_KRSTI
+	url = https://github.com/Fraxezen/SAS_KRSTI.git
+[submodule "dynamixel-workbench-msgs"]
+	path = dynamixel-workbench-msgs
+	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs.git
+[submodule "DynamixelSDK"]
+	path = DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+[submodule "dynamixel-workbench"]
+	path = dynamixel-workbench
+	url = https://github.com/Fraxezen/dynamixel-workbench.git
