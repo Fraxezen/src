@@ -10,3 +10,6 @@
 [submodule "dynamixel-workbench"]
 	path = dynamixel-workbench
 	url = https://github.com/Fraxezen/dynamixel-workbench.git
+[submodule "rqt_joint_trajectory_plot"]
+	path = rqt_joint_trajectory_plot
+	url = https://github.com/tork-a/rqt_joint_trajectory_plot.git
